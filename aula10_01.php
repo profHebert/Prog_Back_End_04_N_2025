@@ -7,3 +7,4 @@ $_SESSION['email'] = 'joao@email.com';
 
 echo 'Dados da sessão armazenados!';
 ?>
+<h2>10_01</h2>
